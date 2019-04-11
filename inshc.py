@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@iamcracked 
-1
-6 1 aliza-ada/inshc
- Code  Issues 1  Pull requests 0  Projects 0  Wiki  Insights
-inshc/inshc.py
-@aliza-ada aliza-ada Add files via upload
-4a95178 on 8 Mar 2018
-169 lines (136 sloc)  4.86 KB
-    
 
 '''
 TODO LIST:
@@ -183,3 +165,4 @@ for password in instabrute.passwords:
 			exit()
 		else:
 			continue
+		
